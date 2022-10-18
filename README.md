@@ -15,7 +15,7 @@ These android apps allow users to access websites whose domain name is blocked b
 [Soundcloud Music Player ~ 音云音乐播放器](https://chinesefreedomapps.filecloudonline.com/url/bbdpdcu2mr6ziwkw)
 Unblocks domain ~ 允许访问被阻止的域： https://soundcloud.com
 
-![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/soundcloud-screenshot.jpg?raw=true)
+![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/soundcloud-screenshot.png?raw=true)
 
 ## How to install apps on your device:
  1)  Download APK file to your computer
