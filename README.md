@@ -4,7 +4,7 @@
 下载音乐视频 社交媒体 新闻 艺术 色情 博客 翻译 谷歌 维基百科 Twitter Youtube Facebook Pinterest Tumblr
 
 ## How to install apps on your device:
-![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/master/settings-samsung.jpg?raw=true)![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/master/settings-install-unknown.png?raw=true)![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/master/settings-apps-install-unknown.png?raw=true)
+![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/settings-samsung.jpg?raw=true)![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/settings-install-unknown.png?raw=true)![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/settings-apps-install-unknown.png?raw=true)
 
  1)  Download APK file to your computer
  2)  Navigate to downloaded APK file in file manager
