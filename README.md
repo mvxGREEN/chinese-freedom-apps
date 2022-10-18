@@ -63,7 +63,6 @@ These android apps allow users to access websites whose domain name is blocked b
  
  ## Screenshots ~ 演示截图
  ![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/samsung-settings.jpg?raw=true)
- ![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/settings-apps-install-unknown.jpg?raw=true)
  
  ## Upcoming Apps ~ 即将推出的应用  
   ➼  Music apps ~ 音乐应用  
