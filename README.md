@@ -12,8 +12,8 @@ These android apps allow users to access websites whose domain name is blocked b
 这些安卓应用程序允许用户访问域名被中国防火墙阻止的网站。 这是在没有 VPN 的情况下通过使用不受大防火墙或大炮阻止的安全代理服务器来完成的。
 
 ## Download Apps [APK] ~ 下载应用程序APK  
-[Soundcloud Music Player ~ 音云音乐播放器](https://chinesefreedomapps.filecloudonline.com/url/bbdpdcu2mr6ziwkw)
-Unblocks domain ~ 允许访问被阻止的域： https://soundcloud.com
+[Soundcloud Music Player ~ 音云音乐播放器](https://chinesefreedomapps.filecloudonline.com/url/bbdpdcu2mr6ziwkw)  
+允许访问被阻止的域： https://soundcloud.com
 
 ![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/soundcloud-screenshot.png?raw=true)
 
