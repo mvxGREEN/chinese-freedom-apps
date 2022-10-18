@@ -12,8 +12,6 @@ These android apps allow users to access websites whose domain name is blocked b
 [Soundcloud Music Player ~ 音云音乐播放器](https://chinesefreedomapps.filecloudonline.com/url/bbdpdcu2mr6ziwkw)
 
 ## How to install apps on your device:
-![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/samsung-settings.jpg?raw=true)![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/settings-apps-install-unknown.jpg?raw=true)
-
  1)  Download APK file to your computer
  2)  Navigate to downloaded APK file in file manager
 
@@ -56,6 +54,10 @@ These android apps allow users to access websites whose domain name is blocked b
  10）点击APK文件，然后点击“安装”  
  
  完毕！您的新应用程序现已安装在您的移动设备上。 
+ 
+ ## Screenshots ~ 演示截图
+ ![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/samsung-settings.jpg?raw=true)
+ ![alt text](https://github.com/mvxGREEN/chinese-freedom-apps/blob/main/settings-apps-install-unknown.jpg?raw=true)
  
  ## Upcoming Apps ~ 即将推出的应用  
   ➼  Music apps ~ 音乐应用  
